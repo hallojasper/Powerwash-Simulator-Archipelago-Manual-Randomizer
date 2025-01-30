@@ -72,8 +72,12 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         if is_category_enabled(multiworld, player, category):
             enabled_categories.append(category)
 
-    starting_level_index = world.options.starting_level.value
-    starting_level = level_list[starting_level_index]
+    if world.options.starting_level.value >= 0:
+        starting_level_index = world.options.starting_level.value
+        starting_level = level_list[starting_level_index]
+    else:
+        starting_level = world.random.choice(enabled_categories)
+
     if starting_level not in enabled_categories:
         raise OptionError("Starting level {} isn't enabled, you can't start with a disabled level".format(starting_level))
 

@@ -163,6 +163,11 @@ Manual_PowerwashSimulator_hallojasper:
     'false': 50
     'true': 0
 
+  Include_Private_Jet:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
   Include_Frolic_Boat:
     # Should items/locations linked to this option be enabled?
     'false': 50
@@ -213,11 +218,16 @@ Manual_PowerwashSimulator_hallojasper:
     'false': 50
     'true': 0
 
+  Include_Lost_City_Palace:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
   starting_level:
     # Choose your starting level, the level must be enabled in the yaml.
     # Not all levels are included because no checks would be available with the starting gear in those levels.
     # Random will give you a random starting level among your enabled levels.
-    random: 50
+    random_level: 50
     van: 0
     back_garden: 0
     playground: 0

@@ -4964,7 +4964,7 @@
 		"name": "Skatepark Walls *Walls*",
 		"region": "Stubborn",
 		"category": ["Parts Mode", "Skatepark"],
-		"requires": "|Skatepark Walls| AND (|Ladder Length:3| OR {YamlEnabled(Hard_Parkour)})"
+		"requires": "|Skatepark Walls| AND |Ladder Length:1|"
 	},
 	{
 		"name": "Skatepark 10%",
@@ -7256,7 +7256,7 @@
 		"name": "Private Jet Wheels *Landing Gear*",
 		"region": "Embedded",
 		"category": ["Parts Mode", "Private Jet"],
-		"requires": "|Private Jet Landing Gears|"
+		"requires": "|Private Jet Landing Gear|"
 	},
 	{
 		"name": "Private Jet Windows *Fuselage*",
@@ -7344,7 +7344,7 @@
 	},
 	{
 		"name": "Private Jet 40%",
-		"region": "EmbeddedEmbedded",
+		"region": "Embedded",
 		"category": ["Percentage Mode", "Private Jet"],
 		"requires": "|Private Jet|"
 	},
@@ -7581,5 +7581,425 @@
 		"region": "Ingrained",
 		"category": ["Percentage Mode", "Temple"],
 		"requires": "|Temple|"
+	},
+	{
+		"name": "Lost City Palace Atrium Alcove Ceilings *Atrium Alcove*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium Alcove| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Lost City Palace Atrium Alcove Walls *Atrium Alcove*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium Alcove| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Atrium Alcove Wall Trims *Atrium Alcove*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium Alcove|"
+	},
+	{
+		"name": "Lost City Palace Atrium Inner Ceiling *Central Opening*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Central Opening| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Lost City Palace Atrium Outer Ceiling *Central Opening*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Central Opening| AND ((|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:4| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Lost City Palace Atrium Ceiling Wall *Atrium*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium| AND ((|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|)"
+	},
+	{
+		"name": "Lost City Palace Atrium Floor *Atrium*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium|"
+	},
+	{
+		"name": "Lost City Palace Atrium Floor Centerpiece *Statue*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Statue|"
+	},
+	{
+		"name": "Lost City Palace Atrium Murals *Atrium Alcove*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium Alcove|"
+	},
+	{
+		"name": "Lost City Palace Atrium Mural Frames *Atrium Alcove*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium Alcove| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 1500 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Lost City Palace Atrium Pilasters *Atrium*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Atrium Pillars *Atrium*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Atrium Podium *Statue*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Statue|"
+	},
+	{
+		"name": "Lost City Palace Atrium Walls *Atrium*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Atrium Wall Trims *Atrium*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Atrium|"
+	},
+	{
+		"name": "Lost City Palace Central Opening *Central Opening*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Central Opening|"
+	},
+	{
+		"name": "Lost City Palace Central Opening Floor *Central Opening*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Central Opening|"
+	},
+	{
+		"name": "Lost City Palace Central Opening Parapets *Central Opening*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Central Opening|"
+	},
+	{
+		"name": "Lost City Palace Entrance Ceiling *Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Lost City Palace Entrance Figureheads *Entrance Pediment*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance Pediment|"
+	},
+	{
+		"name": "Lost City Palace Entrance Mosaic Wall *Entrance Pediment*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance Pediment| AND (|Scaffolding Floor:2| OR (|Scaffolding Floor| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)) OR ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:3|))"
+	},
+	{
+		"name": "Lost City Palace Entrance Pediment *Entrance Pediment*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance Pediment| AND (|Scaffolding Floor:2| OR (|Scaffolding Floor| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:3|)) OR ((|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|))"
+	},
+	{
+		"name": "Lost City Palace Entrance Pillars *Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Lost City Palace Entrance Shell Feature *Entrance Pediment*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance Pediment|"
+	},
+	{
+		"name": "Lost City Palace Entrance Supports *Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Entrance Walls *Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Entrance Wall Trims *Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Entrance|"
+	},
+	{
+		"name": "Lost City Palace Gallery Ceiling Centerpiece *Gallery Ceiling*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery Ceiling| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:4| AND |Progressive Prime Vista PRO Extension:2|))"
+	},
+	{
+		"name": "Lost City Palace Gallery Ceiling Inner *Gallery Ceiling*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery Ceiling| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Gallery Ceiling Outer *Gallery Ceiling*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery Ceiling|"
+	},
+	{
+		"name": "Lost City Palace Gallery Ceiling Supports *Gallery Ceiling*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery Ceiling|"
+	},
+	{
+		"name": "Lost City Palace Gallery Ceiling Wall *Gallery Ceiling*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery Ceiling| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Gallery Floor *Gallery*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery|"
+	},
+	{
+		"name": "Lost City Palace Gallery Murals *Gallery*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery|"
+	},
+	{
+		"name": "Lost City Palace Gallery Mural Walls *Gallery*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery|"
+	},
+	{
+		"name": "Lost City Palace Gallery Walls *Gallery*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Gallery|"
+	},
+	{
+		"name": "Lost City Palace Palace Archways *Palace*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Palace|"
+	},
+	{
+		"name": "Lost City Palace Palace Archway Supports *Palace*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Palace|"
+	},
+	{
+		"name": "Lost City Palace Palace Figureheads *Palace*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Palace|"
+	},
+	{
+		"name": "Lost City Palace Palace Pediments *Palace*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Palace|"
+	},
+	{
+		"name": "Lost City Palace Palace Pyramid Walls *Palace*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Palace|"
+	},
+	{
+		"name": "Lost City Palace Pyramidion *Pyramidion*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Pyramidion|"
+	},
+	{
+		"name": "Lost City Palace Pyramidion Edges *Pyramidion*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Pyramidion|"
+	},
+	{
+		"name": "Lost City Palace Pyramidion Gem *Pyramidion*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|@Lost City Palace:ALL|"
+	},
+	{
+		"name": "Lost City Palace Pyramidion Pedistal *Pyramidion*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Pyramidion|"
+	},
+	{
+		"name": "Lost City Palace Pyramidion Scrolls *Pyramidion*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Pyramidion|"
+	},
+	{
+		"name": "Lost City Palace Rear Entrance Ceiling *Rear Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Rear Entrance| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Rear Entrance Pillars *Rear Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Rear Entrance| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 1500 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Lost City Palace Rear Entrance Platform *Rear Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Rear Entrance|"
+	},
+	{
+		"name": "Lost City Palace Rear Entrance Supports *Rear Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Rear Entrance| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Lost City Palace Rear Entrance Walls *Rear Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Rear Entrance| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 1500 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Lost City Palace Rear Entrance Wall Trims *Rear Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Rear Entrance|"
+	},
+	{
+		"name": "Lost City Palace Rear Octopus Feature *Octopus*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Octopus| AND (|Scaffolding Floor| OR ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 1500 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle|))"
+	},
+	{
+		"name": "Lost City Palace Rear Octopus Wall *Octopus*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Octopus| AND (|Scaffolding Floor| OR ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:2|))"
+	},
+	{
+		"name": "Lost City Palace Rear Octopus Wall Niches *Octopus*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Octopus|"
+	},
+	{
+		"name": "Lost City Palace Rear Octopus Wall Ornaments *Octopus*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Octopus|"
+	},
+	{
+		"name": "Lost City Palace Statue *Statue*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Statue|"
+	},
+	{
+		"name": "Lost City Palace Statue Backpack *Statue*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Statue|"
+	},
+	{
+		"name": "Lost City Palace Statue Symbol *Statue*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Statue|"
+	},
+	{
+		"name": "Lost City Palace Statue Trident *Statue*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace Statue|"
+	},
+	{
+		"name": "Lost City Palace 10%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace|"
+	},
+	{
+		"name": "Lost City Palace 20%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace|"
+	},
+	{
+		"name": "Lost City Palace 30%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace|"
+	},
+	{
+		"name": "Lost City Palace 40%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace|"
+	},
+	{
+		"name": "Lost City Palace 50%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace|"
+	},
+	{
+		"name": "Lost City Palace 60%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace|"
+	},
+	{
+		"name": "Lost City Palace 70%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 1500 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Lost City Palace 80%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace| AND ((|Progressive Prime Vista 3000 Nozzle:4| OR |Progressive Prime Vista PRO Nozzle:2|) OR ((|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|))"
+	},
+	{
+		"name": "Lost City Palace 90%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Lost City Palace 100%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"requires": "|Lost City Palace| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:4| AND |Progressive Prime Vista PRO Extension|))"
 	}
 ]

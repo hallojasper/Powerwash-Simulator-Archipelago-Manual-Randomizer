@@ -29,8 +29,9 @@ from ..Helpers import is_option_enabled, get_option_value
 class Starting_level(Choice):
     """Choose your starting level, the level must be enabled in the yaml.
     Not all levels are included because no checks would be available with the starting gear in those levels.
-    Random will give you a random starting level among your enabled levels.
+    Random_level will give you a random starting level among your enabled levels.
     """
+    option_random_level = -1
     option_van = 0
     option_back_garden = 1
     option_playground = 2
@@ -39,7 +40,7 @@ class Starting_level(Choice):
     option_skatepark = 5
     option_fire_truck = 6
     option_dirt_bike = 7
-    option_gold_cart = 8
+    option_golf_cart = 8
     option_motorbike_and_sidecar = 9
     option_suv = 10
     option_fire_helicopter = 11

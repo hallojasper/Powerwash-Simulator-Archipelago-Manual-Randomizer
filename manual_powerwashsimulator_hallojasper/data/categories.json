@@ -112,5 +112,8 @@
     },
     "Recreational Vehicle Again": {
         "yaml_option": ["Include_Recreational_Vehicle_Again"]
+    },
+    "Lost City Palace": {
+        "yaml_option": ["Include_Lost_City_Palace"]
     }
 }

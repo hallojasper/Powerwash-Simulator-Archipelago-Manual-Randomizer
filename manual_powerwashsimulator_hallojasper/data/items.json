@@ -1564,5 +1564,83 @@
 		"name": "Temple",
 		"category": ["Percentage Mode", "Temple"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Atrium Alcove",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Atrium",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Central Opening",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Entrance Pediment",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Entrance",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Gallery Ceiling",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Gallery",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Palace",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Pyramidion",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Rear Entrance",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Octopus",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Statue",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"progression": true
 	}
 ]
