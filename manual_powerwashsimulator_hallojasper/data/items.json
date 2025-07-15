@@ -1642,5 +1642,59 @@
 		"name": "Lost City Palace",
 		"category": ["Percentage Mode", "Lost City Palace"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station Drill Tower Inside",
+		"category": ["Parts Mode", "Fire Station"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station Drill Tower Outside",
+		"category": ["Parts Mode", "Fire Station"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station Garage",
+		"category": ["Parts Mode", "Fire Station"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station Office",
+		"category": ["Parts Mode", "Fire Station"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station Fire Exit",
+		"category": ["Parts Mode", "Fire Station"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station Doors",
+		"category": ["Parts Mode", "Fire Station"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station Walls",
+		"category": ["Parts Mode", "Fire Station"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station Miscellaneous",
+		"category": ["Parts Mode", "Fire Station"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Station",
+		"category": ["Percentage Mode", "Fire Station"],
+		"progression": true
 	}
 ]

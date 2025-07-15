@@ -1,23 +1,23 @@
 {
 	"Surface": 	{
 		"connects_to": [],
-		"requires": "|Progressive Prime Vista 1500 Nozzle|"
+		"requires": "|Progressive Prime Vista 1500 Nozzle:1|"
 	},
 	"Encrusted": 	{
 		"connects_to": [],
-		"requires": "|Progressive Prime Vista 1500 Nozzle:2| OR |Progressive Prime Vista 3000 Nozzle| OR |Progressive Urban X U2 Nozzle| OR |Progressive Prime Vista PRO Nozzle|"
+		"requires": "|Progressive Prime Vista 1500 Nozzle:2| OR |Progressive Prime Vista 3000 Nozzle:1| OR |Progressive Urban X U2 Nozzle:1| OR |Progressive Prime Vista PRO Nozzle:1|"
 	},
 	"Embedded": 	{
 		"connects_to": [],
-		"requires": "|Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle| OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle|"
+		"requires": "|Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle:1| OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle:1|"
 	},
 	"Tough": 	{
 		"connects_to": [],
-		"requires": "|Progressive Prime Vista 1500 Nozzle:4| OR |Progressive Prime Vista 3000 Nozzle:2| OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle|"
+		"requires": "|Progressive Prime Vista 1500 Nozzle:4| OR |Progressive Prime Vista 3000 Nozzle:2| OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle:1|"
 	},
 	"Stubborn": 	{
 		"connects_to": [],
-		"requires": "|Progressive Prime Vista 3000 Nozzle:2| OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle|"
+		"requires": "|Progressive Prime Vista 3000 Nozzle:2| OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle:1|"
 	},
 	"Ingrained": 	{
 		"connects_to": [],
