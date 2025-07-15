@@ -6872,7 +6872,7 @@
 		"name": "Forest Cottage Side Eaves *Side Gable*",
 		"region": "Embedded",
 		"category": ["Parts Mode", "Forest Cottage"],
-		"requires": "|Forest Cottage Side Gable"
+		"requires": "|Forest Cottage Side Gable|"
 	},
 	{
 		"name": "Forest Cottage Foundations *Foundation*",
@@ -8084,7 +8084,7 @@
 		"name": "Fire Station Drill Tower Wall Frames *Drill Tower Outside*",
 		"region": "Tough",
 		"category": ["Parts Mode", "Fire Station"],
-		"requires": "|Fire Station Drill Tower Outside| AND (|Scaffolding Floor:1| OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Exntension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Exntension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+		"requires": "|Fire Station Drill Tower Outside| AND (|Scaffolding Floor:1| OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:2|)"
 	},
 	{
 		"name": "Fire Station Drill Tower Walls *Drill Tower Outside*",

@@ -32,6 +32,9 @@
     "Vintage Car": {
         "yaml_option": ["Include_Vintage_Car"]
     },
+    "Fire Station": {
+        "yaml_option": ["Include_Fire_Station"]
+    },
     "Grandpa Miller's Car": {
         "yaml_option": ["Include_Grandpa_Millers_Car"]
     },

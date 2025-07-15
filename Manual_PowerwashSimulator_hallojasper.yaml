@@ -21,7 +21,7 @@ description: Default Manual_PowerwashSimulator_hallojasper Template
 
 game: Manual_PowerwashSimulator_hallojasper
 requires:
-  version: 0.5.1 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.1 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_PowerwashSimulator_hallojasper:
   progression_balancing:
@@ -83,6 +83,10 @@ Manual_PowerwashSimulator_hallojasper:
     'false': 0
     'true': 50
 
+  Include_Fire_Station:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
   Include_Grandpa_Millers_Car:
     # Should items/locations linked to this option be enabled?
     'false': 50
@@ -220,8 +224,8 @@ Manual_PowerwashSimulator_hallojasper:
 
   Include_Lost_City_Palace:
     # Should items/locations linked to this option be enabled?
-    'false': 0
-    'true': 50
+    'false': 50
+    'true': 0
 
   starting_level:
     # Choose your starting level, the level must be enabled in the yaml.
