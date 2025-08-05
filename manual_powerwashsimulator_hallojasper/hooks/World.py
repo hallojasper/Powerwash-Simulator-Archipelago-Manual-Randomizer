@@ -69,7 +69,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     category_list = world.category_table.keys()
     enabled_categories = []
     for category in category_list:
-        if is_category_enabled(multiworld, player, category):
+        if is_category_enabled(multiworld, player, category) and category in level_list:
             enabled_categories.append(category)
 
     if world.options.starting_level.value >= 0:

@@ -8283,5 +8283,299 @@
 		"region": "Ingrained",
 		"category": ["Percentage Mode", "Fire Station"],
 		"requires": "|Fire Station| AND (|Ladder Length:1| OR |Scaffolding Floor:1| OR {YamlEnabled(Hard_Parkour)}) AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:4| AND |Progressive Prime Vista PRO Extension:2|) OR (|Scaffolding Floor:1| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:1|) OR  (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension:1|))) OR (|Scaffolding Floor:2| AND (|Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)) OR |Scaffolding Floor:3|)"
+	},
+	{
+		"name": "Helter Skelter Channel Lights *Miscellaneous*",
+		"region": "Surface",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Miscellaneous| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:1| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle:1| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:2|)) OR (|Progressive Prime Vista 1500 Nozzle:1| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle:1|)"
+	},
+	{
+		"name": "Helter Skelter Door Decoration *Entrance*",
+		"region": "Surface",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Entrance| AND ({YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:1| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:2| OR |Progressive Prime Vista 3000 Nozzle:1| OR |Progressive Urban X U2 Nozzle:1| OR |Progressive Prime Vista PRO Nozzle:1|)"
+	},
+	{
+		"name": "Helter Skelter Entry Door *Entrance*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Entrance|"
+	},
+	{
+		"name": "Helter Skelter Entry Door Frame *Entrance*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Entrance|"
+	},
+	{
+		"name": "Helter Skelter Flag Pole *Miscellaneous*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Miscellaneous|"
+	},
+	{
+		"name": "Helter Skelter Platform *Platform*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Platform|"
+	},
+	{
+		"name": "Helter Skelter Platform Support *Platform*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Platform| AND ({YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:4| OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle:1|)"
+	},
+	{
+		"name": "Helter Skelter Platform Underside *Platform*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Platform| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:4| OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Helter Skelter Railings *Platform*",
+		"region": "Stubborn",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Platform|"
+	},
+	{
+		"name": "Helter Skelter Railing Posts *Platform*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Platform|"
+	},
+	{
+		"name": "Helter Skelter Roof *Miscellaneous*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Miscellaneous|"
+	},
+	{
+		"name": "Helter Skelter Roofcap *Miscellaneous*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Miscellaneous|"
+	},
+	{
+		"name": "Helter Skelter Sign *Entrance*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Entrance|"
+	},
+	{
+		"name": "Helter Skelter Signposts *Entrance*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Entrance|"
+	},
+	{
+		"name": "Helter Skelter Slide *Slide*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Slide|"
+	},
+	{
+		"name": "Helter Skelter Slide Basees *Slide*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Slide| AND ({YamlEnabled(Hard_Parkour)} OR |Scaffolding Floor:3| OR (|Scaffolding Floor:2| AND ((|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Slide Frames *Slide*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Slide| AND ({YamlEnabled(Hard_Parkour)} OR |Scaffolding Floor:3| OR (|Scaffolding Floor:2| AND ((|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Slide Rails *Slide*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Slide| AND (|Scaffolding Floor:3| OR (|Scaffolding Floor:2| AND ((|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Slide Supports *Slide*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Slide| AND ({YamlEnabled(Hard_Parkour)} OR |Scaffolding Floor:3| OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Slide Walls *Slide*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Slide|"
+	},
+	{
+		"name": "Helter Skelter Stairs *Entrance*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Entrance|"
+	},
+	{
+		"name": "Helter Skelter First Tier Panels *Lower Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Lower Panels|"
+	},
+	{
+		"name": "Helter Skelter First Tier Ring Frame *Lower Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Lower Panels|"
+	},
+	{
+		"name": "Helter Skelter Second Tier Panels *Lower Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Lower Panels| AND ({YamlEnabled(Hard_Parkour)} OR |Scaffolding Floor:1|)"
+	},
+	{
+		"name": "Helter Skelter Second Tier Ring Frame *Lower Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Lower Panels|"
+	},
+	{
+		"name": "Helter Skelter Third Tier Panels *Middle Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Middle Panels| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:2| AND ((|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle:1| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Third Tier Ring Frame *Lower Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Lower Panels| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:2| AND ((|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle:1| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Helter Skelter Fourth Tier Panels *Middle Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Middle Panels| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle:1| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Fourth Tier Ring Frame *Middle Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Middle Panels| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle:1| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Fifth Tier Panels *Middle Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Middle Panels| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:2|)))"
+	},
+	{
+		"name": "Helter Skelter Fifth Tier Ring Frame *Middle Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Middle Panels| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Top Door *Top Panels*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Top Panels|"
+	},
+	{
+		"name": "Helter Skelter Tod Door Frame *Top Panels*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Top Panels|"
+	},
+	{
+		"name": "Helter Skelter Top Frames *Top Panels*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Top Panels|"
+	},
+	{
+		"name": "Helter Skelter Top Panels *Top Panels*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Top Panels|"
+	},
+	{
+		"name": "Helter Skelter Top Ring Frame *Platform*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Platform| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:4| OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle:1|)) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:2|)"
+	},
+	{
+		"name": "Helter Skelter Vertical Frames *Miscellaneous*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Miscellaneous| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:2|)) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:1|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)"
+	},
+	{
+		"name": "Helter Skelter Windows *Top Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Top Panels|"
+	},
+	{
+		"name": "Helter Skelter Window Frames *Top Panels*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter Top Panels|"
+	},
+	{
+		"name": "Helter Skelter 10%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter|"
+	},
+	{
+		"name": "Helter Skelter 20%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter|"
+	},
+	{
+		"name": "Helter Skelter 30%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter| AND ({YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Extension:1| AND |Scaffolding Floor:3|) OR |Progressive Prime Vista 1500 Nozzle:2| OR |Progressive Prime Vista 3000 Nozzle:1| OR |Progressive Urban X U2 Nozzle:1| OR |Progressive Prime Vista PRO Nozzle:1|)"
+	},
+	{
+		"name": "Helter Skelter 40%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter|"
+	},
+	{
+		"name": "Helter Skelter 50%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter|"
+	},
+	{
+		"name": "Helter Skelter 60%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter|"
+	},
+	{
+		"name": "Helter Skelter 70%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter| AND ({YamlEnabled(Hard_Parkour)} OR (|Scaffolding Floor:3| AND ((|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:1|))) OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Urban X U2 Nozzle:1| AND |Progressive Urban X U2 Extension:2|) OR |Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle:1| OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle:1|)"
+	},
+	{
+		"name": "Helter Skelter 80%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter| AND ({YamlEnabled(Hard_Parkour)} OR |Scaffolding Floor:2| OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:1|) OR (|Progressive Prime Vista 3000 Nozzle:1| AND |Progressive Prime Vista 3000 Extension:1|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:1|) OR |Progressive Prime Vista 1500 Nozzle:4| OR |Progressive Prime Vista 3000 Nozzle:2| OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle:1|)"
+	},
+	{
+		"name": "Helter Skelter 90%",
+		"region": "Tough",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter|"
+	},
+	{
+		"name": "Helter Skelter 100%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"requires": "|Helter Skelter| AND (({YamlEnabled(Hard_Parkour)} AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:1|) OR |Progressive Prime Vista PRO Nozzle:3|)) OR |Scaffolding Floor:3|)"
 	}
 ]

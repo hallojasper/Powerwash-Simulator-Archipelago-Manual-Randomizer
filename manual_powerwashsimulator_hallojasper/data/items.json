@@ -1696,5 +1696,53 @@
 		"name": "Fire Station",
 		"category": ["Percentage Mode", "Fire Station"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helter Skelter Slide",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helter Skelter Entrance",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helter Skelter Platform",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helter Skelter Top Panels",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helter Skelter Lower Panels",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helter Skelter Middle Panels",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helter Skelter Miscellaneous",
+		"category": ["Parts Mode", "Helter Skelter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helter Skelter",
+		"category": ["Percentage Mode", "Helter Skelter"],
+		"progression": true
 	}
 ]

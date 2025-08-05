@@ -167,6 +167,11 @@ Manual_PowerwashSimulator_hallojasper:
     'false': 50
     'true': 0
 
+  Include_Helter_Skelter:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
   Include_Private_Jet:
     # Should items/locations linked to this option be enabled?
     'false': 0
@@ -240,7 +245,7 @@ Manual_PowerwashSimulator_hallojasper:
     skatepark: 0
     fire_truck: 0
     dirt_bike: 0
-    gold_cart: 0
+    golf_cart: 0
     motorbike_and_sidecar: 0
     suv: 0
     fire_helicopter: 0

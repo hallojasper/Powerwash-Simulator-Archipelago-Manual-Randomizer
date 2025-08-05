@@ -83,6 +83,9 @@
     "Washroom": {
         "yaml_option": ["Include_Washroom"]
     },
+	"Helter Skelter": {
+        "yaml_option": ["Include_Helter_Skelter"]
+    },
     "Private Jet": {
         "yaml_option": ["Include_Private_Jet"]
     },
